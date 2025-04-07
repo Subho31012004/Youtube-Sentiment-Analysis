@@ -1,0 +1,36 @@
+/* Custom styles for the YouTube Comment Analyzer */
+
+.container {
+    max-width: 1200px;
+}
+
+h1 {
+    color: #ff0000;  /* YouTube red */
+    margin-bottom: 30px;
+}
+
+.input-group {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+.badge {
+    font-size: 0.9em;
+    padding: 8px 12px;
+}
+
+#commentsTable {
+    margin-top: 20px;
+}
+
+.table thead th {
+    background-color: #f8f9fa;
+}
+
+.alert {
+    border-radius: 8px;
+}
